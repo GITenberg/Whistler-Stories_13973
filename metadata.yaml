@@ -11,6 +11,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13973#Whistler-Stories
 gutenberg_issued: '2004-11-08'
 gutenberg_type: Text
 identifiers:
