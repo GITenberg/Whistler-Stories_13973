@@ -1,0 +1,26 @@
+_repo: Whistler-Stories_13973
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Seitz, Don Carlos
+    birthdate: 1862
+    deathdate: 1935
+    gutenberg_agent_id: '2441'
+    url: http://www.gutenberg.org/2009/agents/2441
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2004-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13973'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Whistler, James McNeill, 1834-1903'
+- !lcc 'ND'
+title: Whistler Stories
+url: http://www.gutenberg.org/ebooks/13973
